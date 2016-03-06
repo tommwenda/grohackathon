@@ -10,7 +10,7 @@ From command line run python harvest.py
 By default the script will fetch all data.
 If data exceeds 50,000 records, the script will ask you to add some filters
 For example after runnig the command python harvest.py:
-`>>$Counting records...- Found 78733 records`
+`>>$Counting records...- Found 78733 records` <br>
 `>>$ Records found (78733) are more than 50000 please enter a filter.`
 `>>$  eg commodity_desc=CORN`
 `>>$  See http://quickstats.nass.usda.gov/api#param_define for more`
